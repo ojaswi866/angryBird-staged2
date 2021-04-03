@@ -1,2 +1,2 @@
-# angryBird-staged2
-smoke images added using arrays
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
